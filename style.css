@@ -1,0 +1,22 @@
+.vien{
+    background-color: rgba(127, 182, 255, 0.537);
+    color: #0730a0;
+}
+
+.chu{
+    color: #0730a0;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#username, #phylum, #gender{
+    display: flexbox;
+    margin: 5px;
+}
+
+body{
+    font-size: 95%;
+}
