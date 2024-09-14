@@ -1,22 +1,24 @@
-.vien{
-    background-color: rgba(127, 182, 255, 0.537);
-    color: #0730a0;
+
+.td{
+    font-family: "Mongolian Baiti";
+    color: #9FC2F8;
+    
 }
 
-.chu{
-    color: #0730a0;
+*{
+    color: white;
+}
+.hihi{
+    color: yellow;
 }
 
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
+.do{
+    color: red;
 }
-
-#username, #phylum, #gender{
-    display: flexbox;
-    margin: 5px;
-}
-
 body{
-    font-size: 95%;
+    background-color: #595547;
+}
+
+h1{
+    font-size: 40pt;
 }
